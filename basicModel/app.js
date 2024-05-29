@@ -8,7 +8,7 @@ const app = express();
 const port = 3000;
 
 const priorityNames = [
-    "Marco Antonio", "Thiago Tomé", "Diosne Marlon", "Mateus Cunha", "Caique Pinto da",
+    "Marco Antonio", "Thiago Tomé", "Diosne Marlon", "Mateus Cunha", "Caique Pinto",
     "Carlos Victor", "José Ribeiro", "Maria Luiza", "Yuri Afonso Costa", "Gabriel Maia",
     "Jean Dias", "Alex Fernandes", "Igor Alexsandro", "Iago Dantas", "Matheus Barbosa",
     "Rellan Monteiro", "Felipe", "João Emannuel", "Jackeline", "Henrique Jeremias", "Pablo Henrique"
